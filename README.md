@@ -10,11 +10,8 @@ R Project Bikes
 This code contains plots generated from Project 2. The data includes bike rental history from three different locations: Chicago, New York City, and Washington.
 
 ### Files used
-Sara_Hiatt_R.html
 Sara-Hiatt_Finished.ipynb
-.gitignore.txt
 README.md
-csv files and rmd R studio file only stored on local repository
 
 ### Credits
 Repository cloned from https://https://github.com/udacity/pdsnd_github
